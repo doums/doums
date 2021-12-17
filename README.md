@@ -9,7 +9,7 @@
 ### DESCRIPTION
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm **Pierre**. I am passionate about code. At the\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;moment, I'm mainly interested in Rust :crab:. And I like to\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop my own tools with it since 2018. I enjoy keeping my\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop my own tools with it since 2018. I like to keep a\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foot in system programming. And yes I'm used to doing C\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sometimes.
 
