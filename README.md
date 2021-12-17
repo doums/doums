@@ -26,23 +26,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React/Native.
 
 ### OPTIONS
-    **-d, --[dotfiles](https://github.com/doums/dotfile)**
-           My personal dotfiles. You can find info about my
-           [Arch Linux](https://archlinux.org/) install and basically my desktop
-           environment setup (window manager config, statusbar,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-d, --[dotfiles](https://github.com/doums/dotfile)**\
+           My personal dotfiles. You can find info about my\
+           [Arch Linux](https://archlinux.org/) install and basically my desktop\
+           environment setup (window manager config, statusbar,\
            etc). It includes my [neovim config](https://github.com/doums/dotfiles/blob/master/.config/nvim/init.lua) (written in Lua).
 
-    **-b, --[baru](https://github.com/doums/baru)**
-           A system monitor designed for use in window manager
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-b, --[baru](https://github.com/doums/baru)**\
+           A system monitor designed for use in window manager\
            statusbar, written in Rust.
 
-    **-m, --[milcheck](https://github.com/doums/milcheck)**
-           CLI to display the status of your pacman mirrorlist and the
-           Arch Linux lastest news right in your terminal,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-m, --[milcheck](https://github.com/doums/milcheck)**\
+           CLI to display the status of your pacman mirrorlist and the\
+           Arch Linux lastest news right in your terminal,\
            written in Rust.
 
-    **-B, --[bato](https://github.com/doums/bato)**
-           A small daemon to send battery notifications, using
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-B, --[bato](https://github.com/doums/bato)**\
+           A small daemon to send battery notifications, using\
            a Finite State Machine, written in Rust.
 
 ### SEE ALSO
