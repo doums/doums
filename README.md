@@ -7,22 +7,22 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**pierre**
 
 ### DESCRIPTION
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm **Pierre**. I am passionate about code. At the
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;moment, I'm mainly interested in Rust :crab:. And I like to
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop my own tools with it since 2018. I enjoy keeping my
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foot in system programming. And yes I'm used to doing C
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm **Pierre**. I am passionate about code. At the\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;moment, I'm mainly interested in Rust :crab:. And I like to\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop my own tools with it since 2018. I enjoy keeping my\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foot in system programming. And yes I'm used to doing C\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sometimes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a big fan of Linux and the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) (**Do One
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thing And Do It Well.**). I am convinced that people should
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be the sovereign of their machine and their data. I'm
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;concerned about my privacy and the respect of my human
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a big fan of Linux and the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) (**Do One\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thing And Do It Well.**). I am convinced that people should\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be the sovereign of their machine and their data. I'm\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;concerned about my privacy and the respect of my human\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rights in the digital world.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At work I exchange my time against web development to earn
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;money in the startup bulldustry. I mainly work with stuff
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;like TypeScript, GraphQL (in code first only), gRPC, AWS,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker and about the front part I'm on the side of
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At work I exchange my time against web development to earn\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;money in the startup bulldustry. I mainly work with stuff\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;like TypeScript, GraphQL (in code first only), gRPC, AWS,\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker and about the front part I'm on the side of\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React/Native.
 
 ### OPTIONS
