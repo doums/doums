@@ -44,7 +44,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Finite State Machine, written in Rust.
 
 ##### SEE ALSO
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like bitcoin, thanks Satoshi Nakamoto.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bitcoin is great, thanks Satoshi Nakamoto.
 
 ##### BUGS
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dommerc.pierre@gmail.com
