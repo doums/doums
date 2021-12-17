@@ -8,10 +8,9 @@
 
 ### DESCRIPTION
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm **Pierre**. I am passionate about code. At the\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;moment, I'm mainly interested in Rust :crab:. And I like to\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop my own tools with it since 2018. I like to keep a\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foot in system programming. And yes I'm used to doing C\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sometimes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;moment, I'm mainly interested in Rust :crab:. I enjoy developing\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my own tools with it since 2018. I like to keep a foot\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in system programming. And yes I'm used to doing C sometimes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a big fan of Linux and the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) (**Do One\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thing And Do It Well.**). I am convinced that people should\
