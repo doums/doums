@@ -27,23 +27,23 @@
 
 ### OPTIONS
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-d, --[dotfiles](https://github.com/doums/dotfile)**\
-           My personal dotfiles. You can find info about my\
-           [Arch Linux](https://archlinux.org/) install and basically my desktop\
-           environment setup (window manager config, statusbar,\
-           etc). It includes my [neovim config](https://github.com/doums/dotfiles/blob/master/.config/nvim/init.lua) (written in Lua).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My personal dotfiles. You can find info about my\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Arch Linux](https://archlinux.org/) install and basically my desktop\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;environment setup (window manager config, statusbar,\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;etc). It includes my [neovim config](https://github.com/doums/dotfiles/blob/master/.config/nvim/init.lua) (written in Lua).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-b, --[baru](https://github.com/doums/baru)**\
-           A system monitor designed for use in window manager\
-           statusbar, written in Rust.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A system monitor designed for use in window manager\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;statusbar, written in Rust.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-m, --[milcheck](https://github.com/doums/milcheck)**\
-           CLI to display the status of your pacman mirrorlist and the\
-           Arch Linux lastest news right in your terminal,\
-           written in Rust.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLI to display the status of your pacman mirrorlist and the\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch Linux lastest news right in your terminal,\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;written in Rust.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**-B, --[bato](https://github.com/doums/bato)**\
-           A small daemon to send battery notifications, using\
-           a Finite State Machine, written in Rust.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A small daemon to send battery notifications, using\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Finite State Machine, written in Rust.
 
 ### SEE ALSO
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like bitcoin, thanks Satoshi Nakamoto.
